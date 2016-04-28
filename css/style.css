@@ -562,7 +562,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 /* Footer */
 footer {
-	background: url(../img/bear.png) no-repeat center center;
+	background: url(../img/footer-bg.jpg) no-repeat center center;
 	background-size: cover;
 	color: #efe4c8;
 	position: relative;
@@ -579,7 +579,7 @@ footer p {
 	padding-top: 350px;
 	padding-right: 0;
 	padding-left: 0;
-	padding-bottom: 350px;
+	padding-bottom: 100px;
 }
 .outro-text H1 {
 	font-size: 70px;
